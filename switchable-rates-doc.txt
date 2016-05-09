@@ -1,0 +1,10 @@
+Number of flashes of LED indicates setting. Briefly pull up J.2 to change setting.
+1 - 0.999kHz, 10 chips
+2 - 0.999kHz, 100 chips
+3 - 0.999kHz, 1000 chips
+4 - 9.999kHz, 10 chips
+5 - 9.999kHz, 100 chips
+6 - 9.999kHz, 1000 chips
+7 - 100.011kHz, 10 chips
+8 - 100.011kHz, 100 chips
+9 - 100.011kHz, 1000 chips
